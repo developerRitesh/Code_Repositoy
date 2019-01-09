@@ -1,0 +1,4 @@
+sku,_attribute_set,_type,_category,_root_category,_product_websites,color,size,description,image,image_label,msrp_enabled,name,price,short_description,status,url_key,visibility,qty,is_in_stock,_media_attribute_id,_media_image,_media_position,_media_is_disabled,weight,tax_class_id
+dum-red-13,Default,simple,,Default Category,base,Red,13 D(M) US,lib43-Red-13,/image_3.jpg,Test Image,Use config,lib43-Red-13,55,lib43-Red-13,1,lib43-red-13,1,5,1,89,/image_1.jpg,1,0,0,0
+,,,,,,,,,,,,,,,,,,,,89,/image_2.jpg,2,0,,
+,,,,,,,,,,,,,,,,,,,,89,/image_3.jpg,3,0,,
